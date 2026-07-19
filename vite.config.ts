@@ -12,7 +12,4 @@ export default defineConfig({
     },
   },
   base: '/Invoicing-system/',
-  build: {
-    outDir: '.' // This forces the build files into your main folder instead of a 'dist' folder
-  },
 })
