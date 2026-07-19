@@ -12,7 +12,7 @@ import { SettingsPage } from '@/pages/SettingsPage'
 export default function App() {
   return (
     <InvoiceProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/Invoicing-system/">
         <Routes>
           <Route element={<AppLayout />}>
             <Route index element={<DashboardPage />} />
