@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InvoiceFlow — Invoicing System
 
 A modern invoicing application built with **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **shadcn/ui**.
@@ -54,3 +55,6 @@ src/
 ├── pages/             # Route pages
 └── types/             # TypeScript interfaces
 ```
+=======
+# Invoicing_system
+>>>>>>> 447a0dec11a580b1c0a916114b617c2ccc8d8a1c
